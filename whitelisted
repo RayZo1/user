@@ -1,2 +1,2 @@
-game.Players.LocalPlayer.UserId == 1809198971 or 
-    game.Players.LocalPlayer.UserId == 2702693297
+if game.Players.LocalPlayer.UserId == 1809198971 or
+game.Players.LocalPlayer.UserId == 2702693297 or then
